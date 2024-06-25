@@ -6,12 +6,12 @@
 1. Clone this repository:
 
    ```bash
-   git clone [repo link]
+   git clone git@github.com:hedaetul/mpv-config.git
 
 3. Move it to your system config:
 
    ```bash
-   mv [currentLocation] ~/.config
+   mv [currentLocation] ~/.config/mpv
    ```
 
-This will launch the application in your default web browser, usually at `http://localhost:3000/`.
+
