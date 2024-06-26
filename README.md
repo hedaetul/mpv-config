@@ -14,4 +14,6 @@
    mv [currentLocation] ~/.config/mpv
    ```
 
+4. Restart MPV
+
 
